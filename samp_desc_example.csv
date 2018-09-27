@@ -1,0 +1,13 @@
+Barcode,File,Sample,group,treatment
+BC1,BC01.fastq,XX_1,1,1
+BC2,BC02.fastq,XX_2,1,1
+BC3,BC03.fastq,XX_3,1,1
+BC4,BC04.fastq,XX_4,2,2
+BC5,BC05.fastq,XX_5,2,2
+BC6,BC06.fastq,XX_6,2,2
+BC7,BC07.fastq,XX_7,3,1
+BC8,BC08.fastq,XX_8,3,1
+BC9,BC09.fastq,XX_9,3,1
+BC10,BC10.fastq,XX_10,4,2
+BC11,BC11.fastq,XX_11,4,2
+BC12,BC12.fastq,XX_12,4,2
