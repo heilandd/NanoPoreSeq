@@ -33,7 +33,7 @@ Samples_discription=read.csv("samp_desc.csv", row.names=1)
 Set=Poreseq(Samples_discription)
 
 # path of the folder where the "fastq" folder is located
-Set@path=c("/media/daka/Data/RNA_Seq/Slices")
+Set@path=c("path_to_file")
 
 # Combine fastq files
 GET_FASQ(Set)
