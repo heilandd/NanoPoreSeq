@@ -1,4 +1,4 @@
-# Nanopore Pipeline for Automated Analysis of cDNA Sequencing Data
+# R-Toolbox for Nanopore Pipeline: Automated Analysis of cDNA Sequencing Data
 
 
 This script is under construction, we are very grateful for suggestive contributions and ideas.
